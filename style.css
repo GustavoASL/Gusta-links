@@ -24,7 +24,7 @@
   /* Profile */
   #profile {
     text-align: center;
-    padding: 24px;
+    padding: 0px 24px;
   }
   
   #profile img {
@@ -71,4 +71,10 @@
   ul li a:hover {
     background: rgba(255, 255, 255, 0.05);
     border: 1.5px solid white;
+  }
+
+  footer {
+    padding: 24px 0px;
+    text-align: center;
+    font-size: 14px;
   }
